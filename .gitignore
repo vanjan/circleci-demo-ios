@@ -36,3 +36,9 @@ Carthage/Build
 # Fastlane output
 fastlane/report.xml
 fastlane/test_output/
+
+# AppCode
+.idea
+
+# Bundler
+.bundle
